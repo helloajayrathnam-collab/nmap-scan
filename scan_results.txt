@@ -1,0 +1,4 @@
+Nmap scan report for 192.168.29.127
+Host is up (0.00s latency).
+All 1000 scanned ports on 192.168.29.127 are in ignored states.
+Not shown: 972 filtered tcp ports (no-response), 28 filtered tcp ports (host-unreach)
